@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanaki&label=Profile%20views&color=0e75b6&style=flat" alt="sharanaki" /> </p>
 
 
-<img   alt="Coding" width = "300" height = "300" align = "right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img   alt="Coding" width = "10" height = "10" align = "right" src="https://giphy.com/embed/XZsobM7PDLAoyvXwrr">
 - 🔭 I’m currently working on [Page Rank](https://github.com/SharanAki/Page-Rank)
 
 - 🌱 I’m currently learning **Python, SQL, Excel**
@@ -18,6 +18,7 @@
 - 📫 How to reach me **Aakrshsharan@gmail.com**
 
 - ⚡ Fun fact **Life is Daring Adventure or N0thing.**
+- <a href ="https://github.com/SharanAki/Certificates/tree/main/Certificate" > <img width = "40" height = "30"  src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"  /></a>Certificates
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
