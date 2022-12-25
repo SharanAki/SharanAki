@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakarsh Sharan</h1>
 <h3 align="center">A passionate Data Analyst and Civil Engineer from India</h3>
-<img   alt="Coding" width = "300" height = "300" align = "right" src="https://i.pinimg.com/originals/0c/9d/0d/0c9d0de4a11b4ebf167f90d1ab2c2237.gif">
+<img   alt="Coding" width = "300" height = "300" align = "right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanaki&label=Profile%20views&color=0e75b6&style=flat" alt="sharanaki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanaki" alt="sharanaki" /></a> </p>
