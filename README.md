@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharanAki](https://github.com/SharanAki)
 
-- 💬 Ask me about **Analysis, R**
+- 💬 Ask me about **Analysis, R Programming**
 
-- 📫 How to reach me **A6457@365f.me**
+- 📫 How to reach me **Aakrshsharan@gmail.com**
 
 - ⚡ Fun fact **Life is Daring Adventure or N0thing.**
 
