@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharanaki&show_icons=true&locale=en" alt="sharanaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharanaki&" alt="sharanaki" /></p>
-<img   alt="Coding" width = "1000" height = "50" class = "center" src="https://laughingsquid.com/wp-content/uploads/2014/11/kazuhiko-okushita-1.gif"> 
+<img   alt="Coding" width = "1000" height = "50" class = "center" src="https://caccioppoli.com/Gif%20linee%20animate/Spinning_line.gif"> 
