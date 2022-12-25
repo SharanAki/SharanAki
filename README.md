@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharanaki&show_icons=true&locale=en" alt="sharanaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharanaki&" alt="sharanaki" /></p>
+<img   alt="Coding" width = "300" height = "300" align = "middle "src="https://i.pinimg.com/originals/0c/9d/0d/0c9d0de4a11b4ebf167f90d1ab2c2237.gif">
