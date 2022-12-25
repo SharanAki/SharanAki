@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharanaki&show_icons=true&locale=en" alt="sharanaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharanaki&" alt="sharanaki" /></p>
-<img   alt="Coding" width = "500" height = "300" align = "middle "src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnftshowroom.com%2Fboris-re%2Fcollection%2Felgeko_gif-art_sexy-glitch-4k&psig=AOvVaw3SBA8ne4I7PtwR5B8HJOU_&ust=1672067754432000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjWifeHlfwCFQAAAAAdAAAAABBQ">
+<img   alt="Coding" width = "800" height = "300" class = "center" src="https://r4.wallpaperflare.com/wallpaper/662/667/693/planet-space-wallpaper-0fb522ac7ea64c4b95ac587231d1c4d4.jpg"> 
