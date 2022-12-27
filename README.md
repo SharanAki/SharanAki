@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanaki&label=Profile%20views&color=0e75b6&style=flat" alt="sharanaki" /> </p>
 
 
-<img   alt="Coding" width = "10" height = "10" align = "right" src="https://giphy.com/embed/XZsobM7PDLAoyvXwrr">
+<a href = "https://sprkl.dev/top-vs-code-extensions-for-developers/"><img   alt="Coding" width = "300" height = "300" align = "right" src="https://github.com/SharanAki/SharanAki/blob/main/gitduck-vs-code-extensions-animation-opt.gif"></a>
 - 🔭 I’m currently working on [Page Rank](https://github.com/SharanAki/Page-Rank)
 
 - 🌱 I’m currently learning **Python, SQL, Excel**
