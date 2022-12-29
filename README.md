@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanaki&label=Profile%20views&color=0e75b6&style=flat" alt="sharanaki" /> </p>
 
-<a href = "https://sprkl.dev/top-vs-code-extensions-for-developers/"><img   alt="Coding" width = "280" height = "300" align = "right" src="https://github.com/SharanAki/SharanAki/blob/main/gitduck-vs-code-extensions-animation-opt.gif"></a>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanaki" alt="sharanaki" /></a> </p>
-
+<a href = "https://sprkl.dev/top-vs-code-extensions-for-developers/"><img   alt="Coding" width = "280" height = "300" align = "right" src="https://github.com/SharanAki/SharanAki/blob/main/gitduck-vs-code-extensions-animation-opt.gif"></a>
 - 🔭 I’m currently working on [Page Rank](https://github.com/SharanAki/Page-Rank)
 
 - 🌱 I’m currently learning **SQL, Python**
