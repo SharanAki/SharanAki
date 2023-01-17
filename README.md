@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakarsh Sharan</h1>
-<img   alt="Coding" width = "1000" height = "200" align = "right" src="https://github.com/SharanAki/SharanAki/blob/main/as.jpg">
+<img   alt="Coding" width = "1000" height = "200" align = "right" src="https://images4.alphacoders.com/601/601048.jpg">
 <h3 align="center">A passionate Data Analyst and Civil Engineer from India</h3>
 
 
