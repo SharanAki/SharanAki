@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanaki" alt="sharanaki" /></a> </p>
 <a href = "https://sprkl.dev/top-vs-code-extensions-for-developers/"><img   alt="Coding" width = "280" height = "300" align = "right" src="https://github.com/SharanAki/SharanAki/blob/main/gitduck-vs-code-extensions-animation-opt.gif"></a>
-- 🔭 I’m currently working on [Page Rank](https://github.com/SharanAki/Page-Rank)
-
-- 🌱 I’m currently learning **SQL, Python**
+- 🔭 I’m worked on [Page Rank](https://github.com/SharanAki/Page-Rank)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharanAki?tab=repositories](https://github.com/SharanAki?tab=repositories)
 
-- 💬 Ask me about **R Programming**
+- 💬 Ask me about **R Programming,** **Cyber Security, &** **Cloud Penetration Testing**
 
 - 📫 How to reach me **Aakrshsharan@gmail.com**
 
