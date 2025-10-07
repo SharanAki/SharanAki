@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakarsh Sharan</h1>
 <img   alt="Coding" width = "1000" height = "200" align = "right" src="https://wallpaperaccess.com/full/4735135.png">
-<h3 align="center">A passionate Data Analyst and Civil Engineer from India</h3>
+<h3 align="center">A passionate Cyber Security Expert, Data Analyst and Civil Engineer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanaki&label=Profile%20views&color=0e75b6&style=flat" alt="sharanaki" /> </p>
